@@ -36,7 +36,7 @@ ssh -i "Dkey.pem" ubuntu@ec2-51-20-7-250.eu-north-1.compute.amazonaws.com
 ```
 Where __username=ubuntu__ and __public ip address=51-20-7-250__
 
-![Terminal-1](./Image/Terminal-1.png)
+![Terminal-1](https://github.com/vfaith37/Web-Stack-Implementation-LAMP-STACK--main/blob/main/Image/Terminal-1.png)
 
 # Step 1 - Install Apache and Update the Firewall
 
